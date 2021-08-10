@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ali-Doggaz/Ali-Doggaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Your title -->
-## Hi, I'm Ali Doggaz, a Software Developer 🚀 and a Cybersecurity enthusiast 🐱‍💻 from Tunisia!
+# Hi there 👋
+## I'm Ali Doggaz, a Software Developer 🚀 and a Cybersecurity enthusiast 🐱‍💻 from Tunisia!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
