@@ -72,10 +72,11 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
+
 <p align="center">
   <img alt="HitCount" src="http://hits.dwyl.com/Ali-Doggaz/Ali-Doggaz.svg" />
   <img alt="visitor" src="https://visitor-badge.glitch.me/badge?page_id=Ali-Doggaz" alt="visitor badge"/>
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
+  #https://github.com/wesky93/views this is a clone of the hits
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/Ali-Doggaz/Ali-Doggaz.svg" />
 </p>
+-->
