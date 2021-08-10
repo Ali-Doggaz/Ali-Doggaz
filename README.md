@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Your title -->
 # Hi there 👋
-## I'm Ali Doggaz, a Software Developer 🚀 and a Cybersecurity enthusiast 🐱‍💻 from Tunisia!
+## I'm Ali Doggaz, a Software Developer 🚀 and Cybersecurity enthusiast 🐱‍💻 from Tunisia!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
