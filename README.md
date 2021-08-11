@@ -36,7 +36,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working as an Admissions Specialist at [Major League Hacking](https://mlh.io/);
 - 🌱 I’m currently learning the fundamentals of cybersecurity with THM and HTB; 
-- 👯 I’m looking to collaborate on [Cybersecurity Guide](https://github.com/Ali-Doggaz/CyberSecurity_Guide) 🤝;
+- 👯 I’m looking to collaborate on my [cybersecurity guide for beginners](https://github.com/Ali-Doggaz/CyberSecurity_Guide) 🤝;
 - 🤔 I’m looking for help with CTFs and Pentesting 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Random-Fact: I loved the TV Show "Lupin", you should give it a try and watch it! You won't regret it!
