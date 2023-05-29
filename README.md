@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working as an Admissions Specialist at [Major League Hacking](https://mlh.io/);
+- 👨🏽‍💻 I’m currently working as an AI/Data Engineer
 - 🌱 I’m currently learning the fundamentals of cybersecurity with THM and HTB; 
 - 👯 I’m looking to collaborate on my [cybersecurity guide for beginners](https://github.com/Ali-Doggaz/CyberSecurity_Guide) 🤝;
 - 🤔 I’m looking for help with CTFs and Pentesting 😭;
