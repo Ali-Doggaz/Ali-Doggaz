@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m a GCP certified Data Engineer, working as an AI & Backend Developer (working student)
 - 👨🏽‍💻 I'm also a 4th year software engineering student at INSAT, Tunisia
-- 🌱 I certified in CyberSec basic tools and techniques by THM and HTB; 
+- 🌱 I am certified in CyberSec basic tools and techniques by THM and HTB; 
 - 👯 I’m looking to collaborate on my [cybersecurity guide for beginners](https://github.com/Ali-Doggaz/CyberSecurity_Guide) 🤝;
 - 🤔 I’m curious about pentesting, might pursue a certification soon!;
 - 💬 Ask me about anything, I am happy to help;
