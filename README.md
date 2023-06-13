@@ -33,10 +33,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working as an AI/Data Engineer
-- 🌱 I’m currently learning the fundamentals of cybersecurity with THM and HTB; 
+- 👨🏽‍💻 I’m a GCP certified Data Engineer, working as an AI & Backend Developer (working student)
+- 👨🏽‍💻 I'm also a 4th year software engineering student at INSAT, Tunisia
+- 🌱 I certified in CyberSec basic tools and techniques by THM and HTB; 
 - 👯 I’m looking to collaborate on my [cybersecurity guide for beginners](https://github.com/Ali-Doggaz/CyberSecurity_Guide) 🤝;
-- 🤔 I’m looking for help with CTFs and Pentesting 😭;
+- 🤔 I’m curious about pentesting, might pursue a certification soon!;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Random-Fact: I loved the TV Show "Lupin", you should give it a try and watch it! You won't regret it!
 - 📫 How to reach me: alidoggaz51@gmail.com;
