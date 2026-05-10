@@ -33,8 +33,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m a GCP certified Data Engineer, working as an AI & Backend Developer (working student) at Fiasco GmbH (Germany);
-- 👨🏽‍💻 I'm also a 4th year software engineering student at INSAT, Tunisia;
+- 👨🏽‍💻 I'm a Senior AI Engineer working at Fiasco GmbH, in Stuttgart Germany.
+- 👨🏽‍💻 I’m also a GCP certified Data Engineer, and experienced in DevOps & MLOps, which I think are critical skills to have to be able to handle the AI lifecycle from A to Z and get it to a production-ready state.
 - 🌱 I am certified in CyberSecurity by THM and HTB; 
 - 👯 I’m looking to collaborate on my [cybersecurity guide for beginners](https://github.com/Ali-Doggaz/CyberSecurity_Guide) 🤝;
 - 🤔 I’m curious about pentesting, might pursue a certification soon!;
